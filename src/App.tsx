@@ -112,7 +112,7 @@ function Header() {
           </div>
         </div>
         <a
-          href="https://github.com/anjanipurwanti987/lp-doctor"
+          href="https://github.com/anjaniastuti9/lp-doctor"
           target="_blank"
           rel="noopener noreferrer"
           className="text-xs text-slate-400 hover:text-cyan-300 transition-colors flex items-center gap-1"
